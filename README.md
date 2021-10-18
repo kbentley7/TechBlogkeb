@@ -6,8 +6,7 @@
 * [Technologies](#technologies)
 * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
-*[Questions/contact](#questions)
+* [Questions/contact](#questions)
 ## Technologies
 Project is created with 
 * [Javascript](https://www.javascript.com/)
