@@ -7,7 +7,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Questions](#questions)
+*[Questions/contact](#questions)
 ## Technologies
 Project is created with 
 * [Javascript](https://www.javascript.com/)
@@ -20,7 +20,9 @@ Project is created with
 * [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
 * [bcrypt](https://www.npmjs.com/package/bcrypt)
 
-
+## General Info
+ [Link to deployed application]()
+<br>
 ## Installation
 To get started clone this repository using 
 <br>
@@ -57,4 +59,10 @@ The application is used publish blog posts and comment on other developers’ po
 ### Contact-Information
 [GitHub](https://github.com/kbentley7)
 
+## Questions/Contact-Information
+
+Questions about this repository? Please contact me at 
+[kenmo8466@gmail.com](
+Contact-Information
+[GitHub](https://github.com/kbentley7)
 kenmo8466@gmail.com
