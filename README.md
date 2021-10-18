@@ -27,7 +27,7 @@ Project is created with
 To get started clone this repository using 
 <br>
 ```terminal
-git clone git@github.com:BennAsabir/tech-blog.git
+git clone 
 ```
 Both Node.js and MySQL must be installed on your computer.
 
