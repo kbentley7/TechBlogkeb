@@ -52,7 +52,7 @@ node server.js
 ```
 Once all that is done, navigate to - http://localhost:3001 to begin!
 
-[Link to deployed application]( )
+
 
 ## Usage
 The application is used publish blog posts and comment on other developers’ posts as well.
@@ -62,7 +62,7 @@ The application is used publish blog posts and comment on other developers’ po
 ## Questions/Contact-Information
 
 Questions about this repository? Please contact me at 
-[kenmo8466@gmail.com](
-Contact-Information
-[GitHub](https://github.com/kbentley7)
-kenmo8466@gmail.com
+[kenmo8466@gmail.com](kenmo8466@gmail.com)
+
+
+
