@@ -1,7 +1,7 @@
 # TechBlogkeb
 
 
-# Table Of Content
+# Table Of Contents
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [Installation](#installation)
@@ -21,7 +21,7 @@ Project is created with
 
 ## General Info
 This app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
- [Link to deployed application]()
+ [Link to deployed application](https://techblogkb.herokuapp.com/)
 <br>
 ## Installation
 To get started clone this repository using 
